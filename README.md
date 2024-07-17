@@ -1,8 +1,30 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is the sofware engineer hiring task.
 
-Currently, two official plugins are available:
+## Live Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can access the live deployment of this project [here](https://blogwebsite7core.netlify.app/). Please note that the API functionality is restricted on the developer plan, so some features may not be available.
+
+## Features
+
+- User-friendly interface
+- Easy navigation
+- Responsive design
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Axios
+- Bootstrap
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository.
+2. Install the required dependencies using `npm install`.
+3. Start the development server using `npm run dev`.
